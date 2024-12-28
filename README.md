@@ -1,5 +1,6 @@
 MLB OPS PREDICTION MODEL
 Overview:
+
         This project predicts whether a baseball player's OPS (On-base Plus Slugging) will exceed 0.800 in 2025 based on their 
         statistics from the 2023, and 2024 MLB seasons. Using AdaBoost with a DecisionTreeClassifier as the base estimator, 
         this model leverages historical player data for feature extraction and prediction.
