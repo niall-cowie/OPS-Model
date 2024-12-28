@@ -1,4 +1,5 @@
 MLB OPS PREDICTION MODEL
+
 Overview:
 
         This project predicts whether a baseball player's OPS (On-base Plus Slugging) will exceed 0.800 in 2025 based on their 
