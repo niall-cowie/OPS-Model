@@ -12,7 +12,7 @@ Features:
 
 Technologies Used:
         - Programming Language: Python
-Libraries:
+Libraries: 
         - pandas for data manipulation
         - numpy for numerical operations
         - sklearn for machine learning
