@@ -115,7 +115,7 @@ class AdaBoostMLBModel:
         Given a player's ID, predict if their OPS in 2025 will be above or below 0.800.
         The prediction is based on their stats from 2023 and 2024.
         """
-        # Get the player's 2023 and 2024 statistics
+        # Get the player's 2022 and 2023 statistics
         player_data = self.df_2022_2023_pivot.loc[[player_id]].copy()
         
         # Check if player data exists
